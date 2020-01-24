@@ -1,6 +1,6 @@
 package com.eS;
 
-public class Main {
+public class LastDigitChecker {
 
     public static void main(String[] args) {
 	// write your code here
